@@ -24,10 +24,21 @@
     color: chocolate;
 }
 
+.ENGSTRAND:hover{
+    box-shadow: 3px 2px 7px #1c8e26;
+    border-style: outset;
+    filter: blur(0.5px);
+}
+
 .REGINA{
     color: blue;
 }
 
+.REGINA:hover{
+    box-shadow: 3px 2px 7px #241a7e;
+    border-style: inset;
+    filter:blur(0.5px);
+}
 .table{
     width: 50%;
     margin-bottom: 20px;
