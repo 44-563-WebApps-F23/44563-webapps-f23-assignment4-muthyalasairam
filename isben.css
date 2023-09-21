@@ -1,0 +1,29 @@
+.speech{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: small;
+    color: black;
+}
+
+.direction{
+    font-family:'Courier New', Courier, monospace;
+    font-size: smaller;
+    color: black;
+    background-color: antiquewhite;
+}
+
+.name{
+
+}
+
+.direction:hover{
+    background-color: darkgoldenrod;
+    color: rgb(33, 38, 119);
+}
+
+.ENGSTRAND{
+    color: chocolate;
+}
+
+.REGINA{
+    color: blue;
+}
