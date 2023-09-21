@@ -36,7 +36,7 @@
 
 .REGINA:hover{
     box-shadow: 3px 2px 7px #241a7e;
-    border-style: inset;
+    border-style: groove;
     filter:blur(0.5px);
 }
 .table{
@@ -59,3 +59,18 @@
 .table tr:nth-child(even){
     background-color: rgb(102, 219, 219);
 }
+
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    }
+    ul.navbar-horizontal li {
+    float:left; 
+    color:#d1497f;
+    background-color:rgb(163, 159, 188)
+    }
+    ul.navbar-horizontal a {
+    display:block;
+    padding:10px
+    }
